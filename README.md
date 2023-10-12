@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bhavya a 9th grade student.
+- 👋 Hi, I’m Bhavya .
 - 👀 I’m interested in designing and Developing
 - 🌱 I’m currently learning Frontend skills
 
