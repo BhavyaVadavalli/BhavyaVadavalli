@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhavya .
-- 👀 I’m interested in designing and Developing
-- 🌱 I’m currently learning Frontend skills
+- 👀 I’m interested in Developing 
+- 🌱 I’m currently learning Frontend skills 
 
 <!---
 BhavyaVadavalli/BhavyaVadavalli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
